@@ -34,3 +34,7 @@ Finds problems automatically and assists the user in fixing them through a 4-tab
 
 - FreeCAD 1.0.1+ (tested on Windows 11)
 - Active sketch in edit mode
+
+## History
+
+- v250728-1915: Initial commit.
