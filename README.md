@@ -2,6 +2,9 @@
 
 FreeCAD macro for detecting and fixing sketch problems that prevent 3D operations that lead to the dreaded Wire Not Closed error in PartDesign workbench.
 
+<img width="64" height="64" alt="SketcherWireDoctor_Icon" src="https://github.com/user-attachments/assets/21fd3989-5f19-4127-a680-0e17d17534ec" />
+
+
 ## What It Does
 
 Finds problems automatically and assists the user in fixing them through a 4-tab docker interface:
